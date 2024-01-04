@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🔰 Natã Martins 
+<h1 align="center" style="text-align: center;">
+  💲Coin Synch
+</h1>
+    
+<h2 id="project">📁 Teste Prático</h2>
+<p> This is another technical challenge that I found here on free LinkedIn!
+A simple website where the home page contains some company information, the texts are static, nothing real. But the idea of the site is to contain information about cryptocurrencies.
+</p>
 
-## Getting Started
+> Feel free to contribute to this project! Remember that practice makes perfect.
 
-First, run the development server:
+<h2 id="tecnology">💻 technology</h2>
+This project was developed with the following technologies:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- Next.JS
+- TypeScript
+- Sass
+  
+<h2>Good habits</h2>
+
+- Hooks
+- react-hook-form
+- Clean Code
+- Web Responsive
+
+<h2 id="usage">🎯 Use</h2>
+
+You can also run it on your machine locally. Make sure you have `Node.js` and `yarn` installed before proceeding with the steps below:
+
+1. Clone  the project:
+
+```
+$ git clone https://github.com/natamartinscodedev/CoinSynch.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. In your termi, access the project folder:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+$ cd Landpage
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Install dependencies
 
-## Learn More
+```
+$ yarn install
+```
 
-To learn more about Next.js, take a look at the following resources:
+4. Start the project:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```
+$ yarn  dev
+```
+## Socia network
+<div style="display: flex;">
+  <a href="https://www.linkedin.com/in/nata-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
+</div>
