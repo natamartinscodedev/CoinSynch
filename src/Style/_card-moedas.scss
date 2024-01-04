@@ -1,0 +1,23 @@
+.card_moedas-table-box {
+    max-width: 70%;
+    width: 100%;
+    margin: auto;
+    background-color: #f9f9f9;
+    padding: 20px 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tr_one {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    div {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+}
